@@ -18,13 +18,3 @@ VGA Controller:	https://eewiki.net/pages/viewpage.action?pageId=15925278
 	https://www.aldec.com/
 * Xilinx ISE 14.7: 
 	http://www.xilinx.com/
-
-**Design Summary Report (Unilization %) XC3S500E-4PQ208C**:
-
-* Number of External IOBs                  26 out of 158    16%;
-* Number of BUFGMUXs                        2 out of 24      8%;
-* Number of DCMs                            1 out of 4      25%;
-* Number of RAMB16s                         3 out of 20     15%;
-* Number of MULT18x18s                      0 out of 20      0%;
-* Number of Slices                        515 out of 4656   11%;
-*   Number of SLICEMs                     23 out of 2328    1%;
